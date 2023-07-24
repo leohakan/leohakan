@@ -12,7 +12,7 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 
 🛠️ Yetenekler
 <br/>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href=alt="typescript" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 [![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFD700?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![Python](https://img.shields.io/badge/-Python-%23FFD700?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
