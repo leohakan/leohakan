@@ -22,3 +22,17 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 
 Sosyal Medya
 
+<p dir="auto"><a href="https://codestackr.com#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://codestackr.com#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://youtube.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://twitter.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://instagram.com/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
