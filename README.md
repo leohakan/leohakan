@@ -20,19 +20,8 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 
 
 
-Sosyal Medya
+Benimle iletişime geçin :
 
-<p dir="auto"><a href="https://codestackr.com#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://codestackr.com#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://youtube.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://twitter.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://instagram.com/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-square&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
