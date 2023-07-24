@@ -12,24 +12,9 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 
 🛠️ Yetenekler
 <br/>
-[![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white&logoSize=60)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFD700?style=flat-square&logo=javascript&logoColor=white&logoSize=60)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-%23FFD700?style=flat-square&logo=python&logoColor=white&logoSize=60)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-%23FFA500?style=flat-square&logo=sql&logoColor=white&logoSize=60)](https://www.w3schools.com/sql/)
+[![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white&logoSize=100)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFD700?style=flat-square&logo=javascript&logoColor=white&logoSize=100)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-%23FFD700?style=flat-square&logo=python&logoColor=white&logoSize=100)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-%23FFA500?style=flat-square&logo=sql&logoColor=white&logoSize=100)](https://www.w3schools.com/sql/)
 
-[![SQL](https://img.shields.io/badge/-SQL-%23FFA500?style=plastic&logo=sql&logoColor=white&logoSize=60)](https://www.w3schools.com/sql/)
 
-<!--
-**leohakan/leohakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
