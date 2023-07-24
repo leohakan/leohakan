@@ -18,10 +18,10 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 [![SQL](https://img.shields.io/badge/-SQL-%23FFA500?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 
-
-
 Benimle iletişime geçin :
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=link)](link) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=link)](link)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=link)](link) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=link)](link)
+[![PatikaDEV Badge](https://img.shields.io/badge/-PatikaDEV-2ECC71?style=flat-square&labelColor=2ECC71&logo=patreon&logoColor=white&link=link)](link)
+  
