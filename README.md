@@ -19,6 +19,7 @@ Ben Hakan Dilek, Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden 
 
 
 Benimle iletişime geçin :
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=link)](link) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=link)](link)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
